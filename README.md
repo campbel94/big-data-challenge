@@ -54,27 +54,3 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 [customer review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 - - -
-
-## Hints and Considerations
-
-* Consult the troubleshooting guide for handling issues with ZEPL.
-
-* Be sure that every cell begins with `%pyspark` in ZEPL. This specifies the interpreter, and you must have one for each cell. If you import a Jupyter notebook in ZEPL, be sure to delete `%python`, which is automatically added to each cell.
-
-- - -
-
-## Submission
-
-* Copy your ZEPL notebooks into Jupyter Notebooks and upload those to GitHub.
-
-* Copy your SQL queries into `.sql` files and upload to GitHub.
-
-* **Important:** Do not upload notebooks that contain your RDS password and endpoint. Be sure to delete them before making your notebook public!
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
